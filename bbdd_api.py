@@ -230,7 +230,6 @@ async def human_query(payload: PostHumanQueryPayload) -> dict[str, str]:
 
     if not answer:
         return {"error": "Falló la generación de la respuesta"}
-        logger.info("ERROR. Prueba GITHUB")
     return {"answer": answer}
 
 
