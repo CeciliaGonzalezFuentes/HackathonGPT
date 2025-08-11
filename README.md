@@ -38,4 +38,6 @@
 | Soporte para *matplotlib* si se desean gráficos. | *Matplotlib* support if charts are desired. |
 | Gráfico de barras / Bar Chart                                               | Gráfico de pastel / Pie Chart                                               |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Suppliers Bar Chart](https://github.com/tu-repo/images/suppliers_bar.png) | ![Suppliers Pie Chart](https://github.com/tu-repo/images/suppliers_pie.png) |
+| <img width="2000" height="1200" alt="suppliers_bar" src="https://github.com/user-attachments/assets/ddfbedb0-44bd-4cf5-8045-423d18e20509" />| <img width="1600" height="1600" alt="suppliers_pie" src="https://github.com/user-attachments/assets/f9fa065a-bcb5-47a4-a548-5db91305a794" />|
+
+
